@@ -103,18 +103,6 @@ Passionate about building scalable web applications, learning new technologies, 
 
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/AnouarBENAISSA/AnouarBENAISSA/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 # 🚀 About Me
 
 ```yaml
@@ -125,14 +113,10 @@ Focus:
   - Full-Stack Development
   - Software Engineering
   - Backend Development
-  - Problem Solving
-Currently Learning:
-  - Spring Boot
-  - Docker
-  - System Design
+  - Problem Solving*
 ```
 
----
+- ***
 
 # ⚡ Fun Fact
 
