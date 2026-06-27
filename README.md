@@ -113,7 +113,7 @@ Focus:
   - Full-Stack Development
   - Software Engineering
   - Backend Development
-  - Problem Solving*
+  - Problem Solving
 ```
 
 - ***
