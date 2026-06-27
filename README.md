@@ -12,6 +12,7 @@ Passionate about Full-Stack Development, problem solving, and building modern we
 ### Languages
 
 C • C++ • Java • C# • Python • JavaScript • TypeScript • PHP • SQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend
 
@@ -29,13 +30,9 @@ Git • GitHub • VS Code • XAMPP • Postman
 
 ## 📈 GitHub Stats
 
-(statistiques)
-
 ---
 
 ## 🔥 Streak
-
-(streak)
 
 ---
 
@@ -43,7 +40,7 @@ Git • GitHub • VS Code • XAMPP • Postman
 
 LinkedIn
 Email
-Portfolio (plus tard)
+Portfolio
 
 <!--
 **AnouarBENAISSA/AnouarBENAISSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
