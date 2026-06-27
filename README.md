@@ -71,7 +71,6 @@ Passionate about building scalable web applications, learning new technologies, 
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=sqlite" />
-<img src="https://skillicons.dev/icons?i=redis" />
 <img src="https://skillicons.dev/icons?i=docker" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
@@ -106,7 +105,7 @@ Passionate about building scalable web applications, learning new technologies, 
 # 🚀 About Me
 
 ```yaml
-Name: Anoir Ben
+Name: Anouar Benaissa
 Location: Morocco 🇲🇦
 Education: Computer Engineering @ ENIAD
 Focus:
